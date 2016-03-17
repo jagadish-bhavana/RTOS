@@ -32,17 +32,17 @@
 		<link>
 			<name>FreeRTOS_Source</name>
 			<type>2</type>
-			<locationURI>FREERTOS_ROOT/FreeRTOS/Source</locationURI>
+			<locationURI>FREERTOS_ROOT/FreeRTOS-Demo/Source</locationURI>
 		</link>
 		<link>
 			<name>Standard_Demo_Tasks</name>
 			<type>2</type>
-			<locationURI>FREERTOS_ROOT/FreeRTOS/Demo/Common/Minimal</locationURI>
+			<locationURI>FREERTOS_ROOT/FreeRTOS-Demo/Demo/Common/Minimal</locationURI>
 		</link>
 		<link>
 			<name>Standard_Demo_Tasks/Include</name>
 			<type>2</type>
-			<locationURI>FREERTOS_ROOT/FreeRTOS/Demo/Common/include</locationURI>
+			<locationURI>FREERTOS_ROOT/FreeRTOS-Demo/Demo/Common/include</locationURI>
 		</link>
 	</linkedResources>
 	<filteredResources>
